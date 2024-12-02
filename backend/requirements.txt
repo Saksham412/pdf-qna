@@ -1,0 +1,12 @@
+langchain 
+langchain_community
+pinecone-client 
+pinecone
+openai 
+torch
+pypdf 
+transformers 
+faiss-cpu
+python-dotenv
+fastapi
+PyPDF2

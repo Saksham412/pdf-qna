@@ -1,0 +1,28 @@
+pdf-chatbot/
+├── backend/
+│   ├── app.py
+│   ├── pdf_processor.py
+│   ├── vector_store.py
+│   ├── chatbot.py
+│   ├── requirements.txt
+│   └── README.md
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   ├── favicon.ico
+│   │   └── manifest.json
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── FileUpload.js
+│   │   │   ├── QuestionAnswer.js
+│   │   │   └── Spinner.js
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   ├── index.js
+│   │   └── index.css
+│   ├── .gitignore
+│   ├── package.json
+│   ├── package-lock.json
+│   └── README.md
+├── .gitignore
+└── README.md
